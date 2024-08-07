@@ -13,18 +13,20 @@
 
   <h3 class="center">Modern UI/UX website</h3>
 
-   <div class="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-    </div>
 </div>
 
-# React + Vite
+**Installation**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Install the project dependencies using npm:
 
-Currently, two official plugins are available:
+```bash
+npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Running the Project**
 
-# BrainWave_with_React.js_TailwindCSS
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
